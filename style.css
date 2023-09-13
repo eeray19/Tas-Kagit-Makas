@@ -1,0 +1,56 @@
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        background-color: rgb(252, 239, 219);
+    }
+
+
+    #comp-score {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+
+    #player-score {
+        font-size: 20px;
+    }
+    #comp-choice {
+        width: 200px;
+        height: 200px;  
+        margin-top: 0px;
+    }
+
+    #player-choice {
+        width: 200px;
+        height: 200px;
+        margin-top: 7px;
+    }
+
+    #options {
+        width: 240px;
+        height: 80px;
+        margin: 0 auto;
+        margin-top: 15px;
+        cursor: pointer;
+    }
+
+    #options img{
+        width: 78px;
+        height: 78px;
+        padding: 1px
+    }
+
+    #restart-button {
+        background-color: #80878e; 
+        color: #fff; 
+        border: none; 
+        padding: 10px 20px; 
+        margin-top: 0;
+        font-size: 16px; 
+        cursor: pointer;
+        border-radius: 15px;
+
+    }
+    
+    #restart-button:hover {
+        background-color: #727a81;
+    }
